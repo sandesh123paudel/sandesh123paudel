@@ -11,12 +11,10 @@
 
 ---
 ## 👁️ Profile Views
-<p align="center">
+<p align="start">
 
   <img src="https://komarev.com/ghpvc/?username=sandesh123paudel&label=Profile%20views&color=0e75b6&style=flat" alt="sandesh123paudel" />
 
-  <br />
-  <sub>If the counter doesn't show, it's probably being blocked by browser settings or GitHub's caching.</sub>
 </p>
 
 ---
