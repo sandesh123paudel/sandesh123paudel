@@ -10,6 +10,14 @@
 - 📄 Know more about my experiences: [View CV](https://www.sandeshpaudel.info.np/SandeshPaudel_CV.pdf)
 
 ---
+## 👁️ Profile Views
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sandesh123paudel&icon=0&color=1" alt="Profile Visits" />
+  <br />
+  <sub>If the counter doesn't show, it's probably being blocked by browser settings or GitHub's caching.</sub>
+</p>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,14 +29,6 @@
 
 ---
 
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandesh123paudel&show_icons=true&theme=radical" alt="Sandesh's GitHub stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandesh123paudel&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh123paudel&layout=compact&theme=radical" alt="Top Langs" />
-</p>
-
----
 
 ## 💻 Tech Stack
 
@@ -67,6 +67,16 @@
 
 ---
 
+## 📈 GitHub Stats
+
+<p align="start">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandesh123paudel&show_icons=true&theme=radical" alt="Sandesh's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandesh123paudel&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://streak-stats.demolab.com/?user=sandesh123paudel&theme=radical" alt="GitHub Streak" />
+</p>
+
+
+---
 
 ## 🏆 GitHub Trophies
 <p align="center">
@@ -77,11 +87,7 @@
 
 ## 🔝 Top Contributions
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=sandesh123paudel&limit=5&theme=radical" />
+<img src="https://github-contributor-stats.vercel.app/api?username=sandesh123paudel&limit=5&theme=radical&combine_all_yearly_contributions=true" />
 </p>
 
----
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=sandesh123paudel&icon=0&color=1" alt="Profile Visits" />
-</p>
